@@ -1,0 +1,41 @@
+*{
+    margin :0;
+    padding:0;
+    
+}
+
+.navigate{
+    display: flex;
+    align-items :center;
+    justify-content: space-between;
+    background: cornflowerblue;
+    color:orangered;
+    line-height: 66px;
+    padding:1rem 1rem ;
+    font-size:  30px;
+
+}
+
+.nbutton{
+padding: 10px;
+background: palegoldenrod;
+margin:1.5rem;
+font-size: 15px;
+cursor: pointer;
+border: paleturquoise;
+outline: auto;
+
+}
+.bgimg{
+    margin-left: 100px;
+    margin-top: 40px;
+    margin-right: 100px;
+    justify-content: space-between;
+}
+.img{
+    float:right;
+    margin-top: 0px;
+    padding: 0px;
+    position: relative;
+    
+}
